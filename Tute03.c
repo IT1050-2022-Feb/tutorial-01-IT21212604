@@ -23,5 +23,5 @@ int main() {
   
   printf("sum of numbers : %d", sum); //print sum
   return 0;
-}
+}  //end of main function
 

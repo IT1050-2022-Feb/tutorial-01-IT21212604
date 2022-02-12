@@ -32,4 +32,4 @@ int main() {
   printf("amount : %d", amount);  //print amount
   
   return 0;
-}
+}  //end of main function

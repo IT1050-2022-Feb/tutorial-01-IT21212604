@@ -18,7 +18,7 @@ Amount = 30 x 50 + (50-30) x 40 = 2300*/
 
 #include <stdio.h>
 
-int main() {
+int main() {  //start main function
   int dis, amount;  //declare variables
   
   printf("enter the distance :");  //display enter the distance

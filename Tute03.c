@@ -12,7 +12,7 @@ n -> 1-
 sum = 1+2+3+...+10 = 55 */
 
 #include <stdio.h>
-int main() {
+int main() {  //start main function
   int i, no, sum=0, val; //declare variables
   printf("enter the no of numbers :"); //display enter no of numbers
   scanf("%d", &no); //enetr the no from keyboard

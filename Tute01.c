@@ -5,7 +5,7 @@
 
 #include <stdio.h>
 
-int main() {
+int main() { //start main function
   int mark1, mark2; //declare variables
   float avg;
   printf("enter mark 1 :");  //dsplay enter mark 1
